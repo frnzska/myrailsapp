@@ -1,2 +1,1 @@
-##create controller
-`rails generate controller ControlerName action`
+`rails generate controller ControlerName action` -> creates controller, view, test, helper
